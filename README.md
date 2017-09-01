@@ -1,4 +1,4 @@
-## Catalogue of resources aimed at addressing the teaching-research divide in computational genomics
+## Catalogue of resources explaining how to invlove undergraduates in genomics research 
 
 While the benefits of undergraduate research experiences (UREs) are recognized for undergraduates, the advantages of UREs for graduate students, post-doctoral scholars, and faculty are not clearly outlined. The analysis of genomic data is particularly well-suited for successful involvement of undergraduates. 
 
