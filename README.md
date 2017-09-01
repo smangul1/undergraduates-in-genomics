@@ -1,4 +1,4 @@
-## Catalogue of resources providing first-time learners with basic knowledge of command line
+## Catalogue of resources aimed at addressing the teaching-research divide in computational genomics
 
 While the benefits of undergraduate research experiences (UREs) are recognized for undergraduates, the advantages of UREs for graduate students, post-doctoral scholars, and faculty are not clearly outlined. The analysis of genomic data is particularly well-suited for successful involvement of undergraduates. 
 
@@ -19,6 +19,6 @@ APA
 
 
 
-#We are working to improve the catalogue. New resourse  or paper can be added by Issues iterface using this link (use `New Issue` button): [https://github.com/smangul1/undergraduates-in-genomics/issues](https://github.com/smangul1/undergraduates-in-genomics/issues)
+We are working to improve the catalogue. New resourse  or paper can be added by Issues iterface using this link (use `New Issue` button): [https://github.com/smangul1/undergraduates-in-genomics/issues](https://github.com/smangul1/undergraduates-in-genomics/issues)
 
 (C) Prepared by Serghei Mangul and Lana Martin 2017
